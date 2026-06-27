@@ -8,3 +8,6 @@ Query all columns (attributes) for every row in the CITY table.
 
 ## Select_By_ID:
 Query all columns for a city in CITY with the ID 1661.
+
+## Japanese_Cities:
+Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
