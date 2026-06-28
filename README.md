@@ -11,3 +11,6 @@ Query all columns for a city in CITY with the ID 1661.
 
 ## Japanese_Cities:
 Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
+
+## Weather_observation:
+Query the list of CITY names from STATION that either do not start with vowels or do not end with vowels. Your result cannot contain duplicates.
