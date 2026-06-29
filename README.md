@@ -14,3 +14,6 @@ Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE f
 
 ## Weather_observation:
 Query the list of CITY names from STATION that either do not start with vowels or do not end with vowels. Your result cannot contain duplicates.
+
+## Weather_observation_2:
+Query the list of CITY names from STATION that do not start with vowels and do not end with vowels. Your result cannot contain duplicates.
