@@ -1,0 +1,4 @@
+SELECT NAME 
+FROM STUDENTS 
+WHERE MARKS>75 
+ORDER BY substring(name, -3), ID ASC;
